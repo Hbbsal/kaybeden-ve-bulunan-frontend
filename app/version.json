@@ -1,1 +1,6 @@
-{"app_name":"kaybolan_ve_bulunan_app","version":"1.0.1","build_number":"2","package_name":"kaybolan_ve_bulunan_app"}
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
